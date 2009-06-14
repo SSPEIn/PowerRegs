@@ -5,19 +5,22 @@
 	Definitions
 	2.	(1)  In these regulations, unless the context otherwise requires:
 			(a)  “Act” means the Electricity Act, 2003 (36 of 2003);
-			(b)  “bilateral transaction” means a transaction for exchange of energy (MWh) between a specified buyer and a specified seller, directly or through a trading licensee, from a specified point of injection to a specified point of drawal for a fixed or varying quantum of power (MW) for any time period during a month;
+			(b)  “bilateral transaction” means a transaction for exchange of energy (MWh) between a specified buyer and a specified seller, directly or through a trading licensee or discovered at power exchange through anonymous bidding, from a specified point of injection to a specified point of drawal for a fixed or varying quantum of power (MW) for any time period during a month; 
 			(c)  “collective transaction” means a set of transactions discovered in power exchange through anonymous, simultaneous competitive bidding by buyers and sellers;
 			(d)  “Commission” means the Central Electricity Regulatory Commission referred to in Section 76 of the Act;
 			(e)  “day” means a day starting at 00.00 hours and ending at 24.00 hours;
-			(f)  “detailed procedure” means the procedure issued by the Central Transmission Utility under these regulations;
+			(f)  “detailed procedure” means the procedure issued under regulation 4;
 			(g)  “Grid Code” means the Grid Code specified by the Commission under Clause (h) of sub-section (1) of Section 79 of the Act;
 			(h)  “intra-State entity” means a person whose metering and energy accounting is done by the State Load Despatch Centre or by any other authorized State utility;
-			(i)  “long-term customer” means a person having a long-term lien over an inter-State transmission system by virtue of paying it transmission charges proportionate to the lien.
+			(i)  “long-term customer” means a person granted long-term access for use of the inter-State transmission system.
+			(i-a)  “medium-term customer” means a person granted medium-term open access for use of the inter-State transmission system.
 			(j)  “month” means a calendar month as per the British calendar;
 			(k)  “nodal agency” means the nodal agency defined in Regulation 5 of these regulations;
-			(l)  “open access customer” means a person who has availed or intends to avail of open access under these regulations and includes a short-term transmission customer as defined in any other regulations, specified by the Commission or a generating company (including captive generating plant) or a licensee or a consumer permitted by the State Commission to receive supply of electricity from a person other than distribution licensee of his area of supply, or a State Government entity authorized to sell or purchase electricity;
+			
 			(m)  “power exchange” means the power exchange established with the prior approval of the Commission;
 			(n)  “regional entity” means a person whose metering and energy accounting is done at the regional level;
+			(n-a)  “short-term open access” means open access for a period up to one (1) month at one time.
+			(n-b)  “short-term customer” means a person who has availed or intends to avail short-term open access.
 			(o)  “State Commission” means the State Electricity Regulatory Commission constituted under Section 82 of the Act and includes the Joint Commission constituted under Section 83 thereof;
 			(p)  “State network” means network owned by the State Transmission Utility, distribution licensee or any other person granted licence by the State Commission to construct, operate and maintain the transmission system;
 			(q)  “State utility” means a State Transmission Utility, or a State Electricity Board, or Electricity Department of the State, or a State Government organization authorized to sell or purchase electricity on behalf of the State;
@@ -26,19 +29,20 @@
 		(2)  Words and expressions used in these regulations and not defined herein but defined in the Act or the Grid Code, shall have the meaning assigned to them under the Act or the Grid Code, as the case may be.
 	
 	Scope
-	3.  Subject to any other regulations specified by the Commission, the long-term customer shall have first priority for using the inter-State transmission system for the designated use. These regulations shall apply for utilization of surplus capacity available thereafter on the inter-State transmission system by virtue of-
-		(a) inherent design margins;
-		(b) margins available due to variation in power flows; and
-		(c) Margins available due to in-built spare transmission capacity created to cater to future load growth or generation addition:
+	3.	(1)  The long-term-customer and the medium-term customer shall have priority over the short-term customer for use of the inter-State transmission system.
+		(2)  The short-term customer shall be eligible for short-term open access over the surplus capacity available on the inter-State transmission system after use by the long-term customer and the medium-term customer, by virtue of-
+			(a) inherent design margins;
+			(b) margins available due to variation in power flows; and
+			(c) Margins available due to in-built spare transmission capacity created to cater to future load growth or generation addition:
 	
 	Detailed Procedure
-	4.  Subject to provisions of these regulations, the Central Transmission Utility, with approval of the Commission shall issue a detailed procedure covering relevant and residual matters not detailed in these regulations.
+	4.  Subject to the provisions of these regulations, the Central Transmission Utility, till the Regional Load Despatch Centre is operated by it and thereafter the Government company or any authority or corporation notified by the Central Government under sub-section (2) of Section 27 of the Act: shall, after obtaining prior approval of the Commission, issue the detailed procedure to operationalise open access and on any residual matter not covered under these regulations.
 	
 	Nodal Agency
 	5.  The nodal agency for bilateral transactions shall be the Regional Load Despatch Centre of the region where point of drawal of electricity is situated and in case of the collective transactions, the nodal agency shall be the National Load Despatch Centre.
 	
-	Submission of Open Access Application
-	6.	(1)  An open access customer or the power exchange (on behalf of buyers and sellers) intending to avail of open access for use of the transmission lines or associated facilities for such lines on the inter-State transmission system, shall make an application to the nodal agency in accordance with these regulations.
+	Submission of Short-term Open Access Application
+	6.	(1)  A short-term customer or the power exchange (on behalf of buyers and sellers) intending to avail of open access for use of the transmission lines or associated facilities for such lines on the inter-State transmission system, shall make an application to the nodal agency in accordance with these regulations.
 		(2)  The application for a bilateral transaction shall contain the details, such as names and location of supplier and buyer, contracted power (MW) to be scheduled and interface at which it is referred to, point of injection, point of drawal, starting time block and date, ending time block and date, and such other information that may be required in the detailed procedure.
 		(3)  The application for a collective transaction shall contain the requisite details in accordance with the detailed procedure.
 	
@@ -49,8 +53,22 @@
 	Concurrence of State Load Despatch Centre for bilateral and collective transactions
 	8.	(1)  Wherever the proposed bilateral transaction has a State utility or an intra-State entity as a buyer or a seller, concurrence of the State Load Despatch Centre shall be obtained in advance and submitted along with the application to the nodal agency. The concurrence of the State Load Despatch Centre shall be in such form as may be provided in the detailed procedure.
 		(2)  When a State utility or an intra-State entity proposes to participate in trading through a power exchange, it shall obtain a “no objection” or a prior standing clearance from the State Load Despatch Centre in such form as may be prescribed in the detailed procedure, specifying the MW up to which the entity may submit a buy or sell bid in a power exchange.
-		(3)  In case the infrastructure required for energy metering and time block wise accounting already exists, and required transmission capacity in the State network is available, the State Load Despatch Centre shall accord its concurrence or ‘no objection’ or standing clearance, as the case may be, within three (3) working days of receipt of the application:
-		(4)  In case SLDC decides not to give concurrence or “no objection” or standing clearance as the case may be, the same shall be communicated to the applicant in writing, giving the reason for refusal within the above stipulated period of 3 days.
+		(3)	(a)  For obtaining concurrence or ‘no objection’ or prior standing clearance an application shall be made before the State Load Despatch Centre who shall, acknowledge receipt of the application, either by e-mail or fax, or any other usually recognised mode of communication, within twenty four hours from the time of receipt of the application:
+				Provided that where the application has been submitted in person, the acknowledgement shall be provided at the time of submission of the application.
+			(b)  While processing the application for concurrence or ‘no objection’ or prior standing clearance, as the case may be, the State Load Despatch Centre shall verify the following, namely-
+				(i)   existence of infrastructure necessary for time-block-wise energy metering and accounting in accordance with the provisions of the Grid Code in force, and
+				(ii)  availability of surplus transmission capacity in the State network.
+			(c)  Where existence of necessary infrastructure and availability of surplus transmission capacity in the State network has been established, the State Load Despatch Centre shall convey its concurrence or ‘no objection’ or prior standing clearance, as the case may be, to the applicant by e-mail or fax, in addition to any other usually recognised mode of communication, within three (3) working days of receipt of the application:
+				Provided that when short-term open access has been applied for the first time by any person, the buyer or the seller, the State Load Despatch Centre shall convey to the applicant such concurrence or ‘no objection’ or prior standing clearance, as the case may be, within seven (7) working days of receipt of the application by e-mail or fax, in addition to any other usually recognised mode of communication.
+		(3A)  In case the State Load Despatch Centre finds that the application for concurrence or ‘no objection’ or prior standing clearance, as the case may be, is incomplete or defective in any respect, it shall communicate the deficiency or defect to the applicant by e-mail or fax, in addition to any other usually recognised mode of communication, within two (2) working days of receipt of the application:
+			Provided that in cases where the State Load Despatch Centre has communicated any deficiency or defect in the application, the date of receipt of application shall be the date on which the application has been received duly completed, after removing the deficiency or rectifying the defects, as the case may be.
+		(4)  In case the application has been found to be in order but the State Load Despatch Centre refuses to give concurrence or ’no objection’ or prior standing clearance as the case may be, on the grounds of non-existence of necessary infrastructure or unavailability of surplus transmission capacity in the State network, such refusal shall be communicated to the applicant by e-mail or fax, in addition to any other usually recognized mode of communication, within the period of three (3) working days or seven (7) working days, as the case may be, from the date of receipt of the application, specified under clause (3), along with reasons for such refusal:
+			Provided that where the State Load Despatch Centre has not communicated any deficiency or defect in the application within two (2) days from the date of receipt of application or refusal or concurrence or ‘no objection’ or prior standing clearance, as the case may be, within the specified period of three (3) working days or seven (7) working days, as applicable, from the date of receipt of the application, concurrence or ‘no objection’ or prior standing clearance, as the case may be, shall be deemed to have been granted:
+			Provided further that where concurrence or ‘no objection’ or prior standing clearance, as the case may be, is deemed to have been granted by the State Load Despatch Centre, the applicant while making application under clause (1) of regulation 9 shall submit to the nodal agency an affidavit (in the format provided in the detailed procedure), duly notarised, declaring that
+				(a)  the State Load Despatch Centre has failed to convey any deficiency or defect in the application or its refusal or concurrence or ‘no objection’ or prior standing clearance, as the case may be, within the specified time,
+				(b)  necessary infrastructure for time-block-wise energy metering and accounting in accordance with the provisions of the Grid Code in force, is in place; and enclosing with the affidavit –
+					(i)   a copy of the complete application after removal of deficiency or rectification of defects, if any communicated, made to the State Load Despatch Centre for seeking concurrence or ‘no objection’ or prior standing clearance, as the case may be, and
+					(ii)  a copy of the acknowledgement, if any, given by the State Load Despatch Centre, or any other evidence in support of delivery of the application to the State Load Despatch Centre.
 		(5)  Unless specified otherwise by the State Commission concerned, the State Load Despatch Centre may charge a fee of Rupee five thousand (Rs 5000/-) for processing applications for concurrence or “no objection” or prior standing clearance.
 	
 	Procedure for Advance Scheduling for bilateral transactions
@@ -62,19 +80,19 @@
 		(3)	(a)  An application for inter-State scheduling during the third month shall be made up to five (5) days prior to the close of the first month.
 			(b)  All applications received shall be taken up together for consideration.
 			(c)  The nodal agency shall convey its acceptance or otherwise to the applicant latest by the close of the first month:
-				Provided that while accepting the application, open access granted to any person prior thereto shall not be withdrawn.
+				Provided that while accepting the application, short-term open access granted to any person prior thereto shall not be withdrawn.
 		(4)	(a)  An application for inter-State scheduling in the second month shall be made with the nodal agency up to ten (10) days prior to the close of the first month.
 			(b)  All applications shall be taken up together for consideration.
 			(c)  The nodal agency shall convey its acceptance or otherwise to the applicant five days prior to the last day of the first month:
-				Provided that while accepting the application, open access granted to any person prior thereto shall not be withdrawn.
+				Provided that while accepting the application, short-term open access granted to any person prior thereto shall not be withdrawn.
 		(5)  Wherever the nodal agency rejects an application, it shall convey its reasons to the applicant in writing.
 	
 	Congestion management
-	10.  Where in the opinion of the nodal agency, grant of all applications at a particular stage of advance scheduling is likely to cause congestion in one or more of the transmission corridors to be used, it shall conduct electronic bidding for grant of open access for the available surplus transmission capacity among the applicants at that stage, in accordance with the detailed procedure:
+	10.  Where in the opinion of the nodal agency, grant of all applications at a particular stage of advance scheduling is likely to cause congestion in one or more of the transmission corridors to be used, it shall conduct electronic bidding for grant of short-term open access for the available surplus transmission capacity among the applicants at that stage, in accordance with the detailed procedure:
 			 Provided that if any person does not participate in the bidding process he shall be deemed to have withdrawn his application.
 	
 	Procedure for scheduling of bilateral transactions on first-come-first-served
-	11.	(1)  The applications for grant of open access for the second month, received after the date specified in clause (4) of Regulation 9 and the applications for grant of open access during the first month shall be considered on first-come-first-served basis, and such transactions shall be scheduled subject to availability of the required transmission capacity:
+	11.	(1)  The applications for grant of short-term open access for the second month, received after the date specified in clause (4) of Regulation 9 and the applications for grant of short-term open access during the first month shall be considered on first-come-first-served basis, and such transactions shall be scheduled subject to availability of the required transmission capacity:
 				Provided that such applications shall reach the nodal agency at least four (4) days in advance of the date of the bilateral transaction:
 				Provided further that separate application shall be made for each transaction.
 		(2)  All these applications shall be processed and decided within three (3) days of their receipt.
@@ -85,32 +103,36 @@
 			 An application for scheduling a transaction on 25th day of a month, shall be processed on first-come-first-served basis only if such application is received till 21st day of that month. If the application is received on 22nd day or 23rd day or up to 1500 hrs on 24th day, it shall be treated only after processing of the applications for collective transactions received up to 1500 hrs on 24th day for scheduling on 25th day.
 	
 	Procedure for scheduling of transactions in a contingency
-	13.  In the event of a contingency, the buying utility may locate a source of power to meet short-term contingency requirement even after the cut-off time of 1500 hrs of the preceding day and apply to the nodal agency for open access and scheduling and in that event, the nodal agency shall endeavour to accommodate such request as soon as and to the extent practically feasible, in accordance with the detailed procedure.
+	13.  In the event of a contingency, the buyer or on its behalf, a trader may locate, and the power exchange may offer its platform to locate, a source of power to meet short-term contingency requirements even after the cut-off time of 1500 hrs of the preceding day and apply to the nodal agency for short-term open access and scheduling and in that event, the nodal agency shall endeavour to accommodate the request as soon as may be and to the extent practically feasible, in accordance with the detailed procedure.
 	
 	Revision of Schedule
-	14.	(1)  The open access schedules accepted by the nodal agency in advance and on first-come-first-served basis may be cancelled or revised downwards by the applicant by giving a minimum five (5) days’ notice, excluding the day on which notice is served and the day from which revised schedules are to be implemented.
-		(2)  The applicant shall continue to be liable to pay transmission charges as per the schedule originally approved, if the period of revision or cancellation is up to five (5) days.
-		(3)  If the period of revision or cancellation exceeds five (5) days, transmission charges for the period beyond five (5) days shall be payable in accordance with the revised schedule and for the first five days (5) in accordance with the original schedule.
-		(4)  In case of cancellation, operating charges shall be payable for five (5) days or the period of cancellation in days, which ever is less.
+	14.	(1)  The short-term open access schedules accepted by the nodal agency in advance or on first-come-first-served basis may be cancelled or revised downwards on an application to that effect made to the nodal agency by the short-term customer:
+			Provided that such cancellation or downward revision of the short-term open access schedules shall not be effective before expiry of a minimum period of two (2) days:
+			Provided further that the day on which notice for cancellation or downward revision of schedule is served on the nodal agency and the day from which such cancellation or downward revision is to be implemented, shall be excluded for computing the period of two (2) days.
+		(2)  The person seeking cancellation or downward revision of short-term open access schedule shall pay the transmission charges for the first two (2) days of the period for which the cancellation or downward revision of schedule, as the case may be, has been sought, in accordance with the schedule originally approved by the nodal agency, and thereafter in accordance with the revised schedule prepared by the nodal agency during the period of such cancellation or downward revision.
+		(3)  In case of cancellation, operating charges specified under regulation 17 shall be payable for two (2) days or the period of cancellation in days, whichever is less.
 	
 	Curtailment in case of transmission constraints
-	15.	(1)  When for the reason of transmission constraints or to maintain grid security, it becomes necessary to curtail power flow on a transmission corridor, the transactions already scheduled may be curtailed in the manner decided by the Regional Load Despatch Centre, if in its opinion such curtailment is likely to relieve the transmission constraint or is likely to improve grid security.
-		(2)  In case of inter-regional bilateral transactions, approved schedule may be revised or cancelled by the Regional Load Despatch Centre, if the Central Government allocates power from a central generating station in one region to a person in the other region and such allocation, in the opinion of the Regional Load Despatch Centre, cannot otherwise be implemented because of congestion in inter-regional link. The intimation about such revision or cancellation shall, as soon as possible, be conveyed to the affected open access customers.
+	15.	(1)  The Regional Load Despatch Centre may curtail power flow on any transmission corridor by cancelling or re-scheduling any transaction, if in its opinion cancellation or curtailment of any such transaction is likely to relieve the transmission constraint on the corridor or to improve grid security:
+			Provided that subject to provisions of the Grid Code, while cancellation or curtailment of any transaction, among short-term, medium-term and long-term transactions, short-term transactions shall be cancelled or curtailed first, followed by medium -term and thereafter long term–transactions:
+			Provided further that while cancelling or curtailing any short-term transaction, bilateral transactions shall be cancelled or curtailed first followed by collective transactions.
+		(2)  In case of inter-regional bilateral transactions, approved schedule may be revised or cancelled by the Regional Load Despatch Centre, if the Central Government allocates power from a central generating station in one region to a person in the other region and such allocation, in the opinion of the Regional Load Despatch Centre, cannot otherwise be implemented because of congestion in inter-regional link. The intimation about such revision or cancellation shall, as soon as possible, be conveyed to the affected short-term customers.
 		(3)  In case of curtailment of the approved schedule by the Regional Load Despatch Centre, transmission charges shall be payable pro-rata in accordance with the curtailed schedule: Provided that operating charges shall not be revised in case of curtailment.
 	
 	Transmission Charges
-	16.	(1)  In case of bilateral transactions, for use of the inter-State transmission system, the transmission charges at the rate specified hereunder shall be payable by the applicant for the energy approved for transmission at the point(s) of injection:
+	16.	(1)  In case of bilateral transactions, the transmission charges at the rate specified hereunder shall be payable by the short-term customer for the energy approved for transmission at the point or points of injection:
 			  
 			  Type of Transaction Transmission charges(Total)	(Rs./MWh)
-			  Bilateral, intra-regional	30
-			  Bilateral, between adjacent regions	60
-			  Bilateral, wheeling through one or more intervening regions	90
+			  (a)  Bilateral, intra-regional	80
+			  (b)  Bilateral, between adjacent regions	160
+			  (c)  Bilateral, wheeling through one or more intervening regions	240
 			  
-		(2)  In case of the collective transaction, for use of the inter-State transmission system, transmission charges at the rate of Rs.30/MWh for energy approved for transmission for each point of injection and for each point of drawal shall be payable.
-		(3)  The intra-State entities shall additionally pay transmission charges for use of the State network as determined by the respective State Commission:
-			Provided that in case the State Commission has not determined the transmission charges, the same shall not be a ground for denial of open access and charges for use of respective State network shall be payable for the energy approved at the rate of Rs.30/MWh:
-			Provided further that transmission charges for use of the State network shall be intimated to the Regional Load Despatch Centre concerned for display on its web site:
-			Provided also that transmission charges shall not be revised with retrospective effect.
+		(2)  In case of the collective transactions, transmission charges at the rate of Rs. 100/MWh for energy approved for transmission separately for each point of injection and for each point of drawal, shall be payable.
+		(3)  The intra-State entities shall pay the transmission charges for use of the State network as fixed by the respective State Commission in addition to the charges specified under clauses (1) and (2):
+			Provided that in case the State Commission has not determined the transmission charges, the charges for use of respective State network shall be payable at the rate of Rs.80/MWh for the electricity transmitted:
+			Provided further that non-fixation of the transmission charges by the State Commission for use of the State network shall not be a ground for refusal of open access:
+			Provided also that the transmission charges payable for use of the State network shall be conveyed to the Regional Load Despatch Centre concerned who shall display these rates on its web site:
+			Provided also that the transmission charges payable for use of the State network shall not be revised retrospectively.
 	
 	Operating Charges
 	17.	(1)  Operating charges at the rate of Rs. 2,000 /- per day or part of the day for each bilateral transaction for each of the Regional Load Despatch Centre involved and at the rate of Rs.2,000 /- per day or part of the day for each State Load Despatch Centre involved shall be payable by the applicant.
@@ -127,7 +149,7 @@
 	18.  In case of the bilateral transaction, the applicant shall deposit with the nodal agency transmission charges and operating charges within three (3) working days of grant of application and in case of collective transactions, the power exchange shall deposit with the nodal agency these charges by the next working day falling after the day on which its application was processed:
 		Provided that in case of the collective transactions, the transmission charges for use of State network and operating charges for State Load Despatch Centre shall be settled directly by the power exchange with respective State Load Despatch Centre.
 	
-	Default in payment of open access charges
+	Default in payment of short-term open access charges
 	19.	(1)  In case of default in payment of the application fee or the charges specified under these regulations, the nodal agency may, in its discretion, decide not to schedule the transaction, or to cancel the scheduling of already scheduled transaction or not to entertain any application of such persons in future until such time the default is cured.
 		(2)  Notwithstanding the above, the person committing default in payment shall pay simple interest at the rate of 0.04% for each day of default.
 	
@@ -137,10 +159,10 @@
 		(3)  The State utility designated for the purpose of collection / disbursement of UI charges from / to intra-State entities shall be responsible for timely payment of the State’s composite dues to the regional UI pool account.
 		(4)  Any mismatch between the scheduled and the actual drawal at drawal points and scheduled and the actual injection at injection points for the intra- State entities shall be determined by the concerned State Load Despatch Centre and covered in the intra-State UI accounting scheme.
 		(5)  Unless specified otherwise by the concerned State Commission, UI rate for intra-State entity shall be 105% (for over-drawals or under generation) and 95% (for under-drawals or over generation) of UI rate at the periphery of regional entity.
-		(6)  In an interconnection (integrated A.C. grid), since MW deviations from schedule of an entity are met from the entire grid, and the local utility is not solely responsible for absorbing these deviations, restrictions regarding magnitude of deviations (except on account of over-stressing of concerned transmission or distribution system), and charges other than those applicable in accordance with these regulation (such as standby charges, grid support charges, parallel operation charges) shall not be imposed by the State Utilities on the customers of inter-State open access.
+		(6)  No charges, other than those specified under these regulations shall be payable by any person granted short-term open access under these regulations.
 	
 	Reactive Energy Charges
-	21.	(1)  No separate reactive energy charge accounting for open access transactions shall be carried out at inter-State level:
+	21.	(1)  No separate reactive energy charge accounting for short-term open access transactions shall be carried out at inter-State level:
 			Provided that the State Utility designated for the purpose shall be responsible for timely payment of the State’s composite dues to the regional reactive charge account in accordance with the provisions of the Grid Code.
 		(2)  The reactive energy drawals and injections by the intra-State entities shall be governed by the regulations applicable within the State concerned.
 	
@@ -159,27 +181,31 @@
 	24.  The buyers and sellers of energy shall comply with the provisions of the Grid Code in force from time to time.
 	
 	Collection and Disbursement of transmission charges and operating charges
-	25.	(1)  The transmission charges and the operating charges payable by the persons allowed open access shall be collected and disbursed by the nodal agency, except for transmission charges for State network and operating charges for State Load Despatch Centre in the case of the collective transaction.
-		(2)  The transmission charges collected for use of the transmission system other than the State network for a bilateral transaction in accordance with these regulations, shall be utilized for reduction in monthly transmission charges payable by long-term customers of the region concerned in the following manner after allowing 25% of the transmission charges to be retained by the Central Transmission Utility-
+	25.	(1)  The transmission charges and the operating charges payable by the persons allowed short-term open access shall be collected and disbursed by the nodal agency, except for transmission charges for State network and operating charges for State Load Despatch Centre in the case of the collective transaction.
+		(2)  The transmission charges collected by the nodal agency for use of the transmission system other than State network, for a bilateral transaction shall be directly disbursed to the long-term customers after disbursing 25% of such transmission charges to the Central Transmission Utility in the following manner -
 			(a)  In case of intra-regional bilateral transaction: 75% of the transmission charges to the region concerned.
 			(b)  In case of bilateral transaction between adjacent regions: 37.5% of the transmission charges for each region.
-			(c)  In case of bilateral transaction through one or more intervening regions: 25% of the transmission charges for each of importing and exporting each region and remaining 25% of the transmission charges to be allocated equally among intervening regions.
-		(3)  The transmission charges collected for use of the transmission system other than the State network for a collective transaction shall be disbursed in the following manner, namely-
-			(a)  25% of the transmission charges payable for each point of injection and each point of drawal shall be retained by the Central Transmission Utility
-			(b)  75% of the transmission charges payable for each point of injection and each point of drawal shall be used for reduction in transmission charges payable by long-term customers of the region in which point of injection or point of drawal, as the case may be, is situated.
-		(4)  The transmission charges for use of State network shall be disbursed to the State Transmission Utility concerned.
-		(5)  In case a State utility is the open access customer, the operating charges and the transmission charges to be collected by the nodal agency shall not include the charges for the State network and operating charges for the State Load Despatch Centre.
+			(c)  In case of bilateral transaction through one or more intervening regions: 25% of the transmission charges for each of importing and exporting each region and remaining 25% of the transmission charges to be allocated equally among all intervening regions.
+		(3)  The transmission charges collected for use of the transmission system other than State network for a collective transaction for each point of injection and each point of drawal shall be disbursed by the nodal agency in the following manner, namely-
+			(a)  Central Transmission Utility:	25%
+			(b)  Long-term customers of the region of point of injection or drawal, as the case may be, is situate:	75%
+		(4)  The transmission charges shall be disbursed to the long-term customers in proportion to the monthly transmission charges payable by them.
+		(5)  The transmission charges for use of State network shall be disbursed to the State Transmission Utility concerned.
+		(6)  In case an intra-State entity is the short-term customer, the operating charges and the transmission charges collected by the nodal agency shall not include the charges for use of the State network and operating charges for the State Load Despatch Centre.
+	
+	Short-term Open Access Not To Be Granted
+	25A.  When so directed by the Commission, the National Load Despatch Centre or the Regional Load Despatch Centre, as the case may be, shall not grant short-term open access to the entities and associates of such entities, who consistently and willfully default in payment of Unscheduled Interchange charges, transmission charges, reactive energy charges, congestion charges and fee and charges for National Load Despatch Centre or Regional Load Despatch Centre including the charges for the Unified Load Despatch and Communication Scheme .
 	
 	Redressal Mechanism
-	26.  Unless the dispute involves the State Load Despatch Centre and the intra-State entities of the concerned State and falls within the jurisdiction of the State Commission, all disputes arising under these regulations shall be decided by the Commission based on an application made by the person aggrieved.
+	26.  All disputes arising under these regulations shall be decided by the Commission based on an application made by the person aggrieved.
 	
-	Information System
-	27.  National Load Despatch Centre and each Regional Load Despatch Centre shall post the following information on their websites in a separate web-page titled “Open access information”:
+	Information System – National Load Despatch Centre and Regional Load Despatch Centres
+	27.  National Load Despatch Centre and each Regional Load Despatch Centre shall post the following information on their websites in a separate web-page titled “Short-term Open access information”:
 		(a)  These regulations;
 		(b)  The detailed procedure;
 		(c)  A list of bilateral transactions accepted by the nodal agency, to be displayed till the end of the month in which transactions are scheduled, indicating:
 			(i)    Name of customers;
-			(ii)   Period of the open access granted (start date and end date);
+			(ii)   Period of the short-term open access granted (start date and end date);
 			(iii)  Point or points of injection;
 			(iv)   Point or points of drawal;
 			(v)    Transmission systems used (in terms of regions and States);
@@ -189,9 +215,23 @@
 		(d)  Information regarding usage of the inter-regional links.
 		(e)  The information regarding average regional energy losses for the previous 52 weeks.
 		(f)  Transmission charges and applicable transmission losses for various State networks as informed by the State utilities concerned.
-		(g)  The list of open access applications for advance scheduling received as the nodal agency which have not been accepted, along with reasons for denial, to be displayed till one month after the scheduling period.
+		(g)  The list of short-term open access applications for advance scheduling received as the nodal agency which have not been accepted, along with reasons for denial, to be displayed till one month after the scheduling period.
+	
+	Information System – State Load Despatch Centres
+	27A.  Each State Load Despatch Centre, shall within 60 days of coming into force of these regulations, develop its website and post the following information on separate web-page titled “information on Inter-State Open Access”:
+		(a)  List of bilateral transactions for which concurrence has been granted and list of entities to whom concurrence or “no objection” or prior standing clearance, as the case may be, has been granted till the end of the month in which such concurrence or no objection or prior standing clearance has been granted, indicating:
+			(i)    Name of customer;
+			(ii)   Period of concurrence or “no objection” or standing clearance, as the case may be, (start date and end date);
+			(iii)  Point or points of injection and drawal,; and
+			(iv)   Accepted schedule (MW).
+			Note
+				The status report shall be updated daily.
+		(b)  Average transmission losses for the State network for the immediately preceding 52 weeks;
+		(c)  Applicable transmission charges and transmission losses for the State network;
+		(d)  List of applications where concurrence or “no objection” or standing clearance, as the case may be, was not granted, along with reasons for refusal, to be displayed till one month after the scheduling period given in the application; and
+		(e)  A list of applications pending for decision.
 	
 	Savings and Repeal
-	28.	(1)  The provisions of the Central Electricity Regulatory Commission (Open Access in inter-State Transmission) Regulations, 2004 shall not apply to the open access customers whose applications are processed under these regulations.
+	28.	(1)  The provisions of the Central Electricity Regulatory Commission (Open Access in inter-State Transmission) Regulations, 2004 shall not apply to the short-term customers whose applications are processed under these regulations.
 		(2)  The provisions relating to long-term customers as contained in the Central Electricity Regulatory Commission (Open Access in inter-State Transmission) Regulations, 2004 shall continue to apply till Commission notifies separate regulations covering aspects relating to long-term customers.
 		(3)  The provisions relating to short-term open access as contained in the Central Electricity Regulatory Commission (Open Access in inter-State Transmission) Regulations, 2004 shall stand repealed on 1.4.2008.
