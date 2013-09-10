@@ -11,7 +11,8 @@
 			(e)  “day” means a day starting at 00.00 hours and ending at 24.00 hours;
 			(f)  “detailed procedure” means the procedure issued under regulation 4;
 			(g)  “Grid Code” means the Grid Code specified by the Commission under Clause (h) of sub-section (1) of Section 79 of the Act;
-			(h)  “intra-State entity” means a person whose metering and energy accounting is done by the State Load Despatch Centre or by any other authorized State utility;
+			(g-a)  “Intra-day transaction/contingency transaction” means the transaction which occurs on day (T) after the closure of day ahead transaction window and the delivery of power is on the same day (T) or next day (T+1) and which are scheduled by Regional Load Despatch Centre or National Load Despatch Centre.
+			(h)  “Intra-State entity” means a person whose metering is done by the State Transmission Utility or the Distribution Licensee, as the case may be and the accounting is done by State Load Despatch Centre or any other authorized State Agency.
 			(i)  “long-term customer” means a person granted long-term access for use of the inter-State transmission system.
 			(i-a)  “medium-term customer” means a person granted medium-term open access for use of the inter-State transmission system.
 			(j)  “month” means a calendar month as per the British calendar;
@@ -23,10 +24,10 @@
 			(n-b)  “short-term customer” means a person who has availed or intends to avail short-term open access.
 			(o)  “State Commission” means the State Electricity Regulatory Commission constituted under Section 82 of the Act and includes the Joint Commission constituted under Section 83 thereof;
 			(p)  “State network” means network owned by the State Transmission Utility, distribution licensee or any other person granted licence by the State Commission to construct, operate and maintain the transmission system;
-			(q)  “State utility” means a State Transmission Utility, or a State Electricity Board, or Electricity Department of the State, or a State Government organization authorized to sell or purchase electricity on behalf of the State;
+			(q)  “State utility” means a State Electricity Board, or Electricity Department of the State, or a State Government organization authorized to sell or purchase electricity on behalf of the State;
 			(r)  “time block” means 15 minutes time period specified in the Grid Code for the purposes of scheduling and despatch; and
 			(s)  “working day” means a day on which banks are open for business;
-		(2)  Words and expressions used in these regulations and not defined herein but defined in the Act or the Grid Code, shall have the meaning assigned to them under the Act or the Grid Code, as the case may be.
+		(2)  Words and expressions used in these regulations and not defined herein but defined in the Act or any other regulations made by the Commission, shall have the meaning assigned to them under the Act or any other regulations made by the Commission, as the case may be.
 	
 	Scope
 	3.	(1)  The long-term-customer and the medium-term customer shall have priority over the short-term customer for use of the inter-State transmission system.
@@ -52,23 +53,38 @@
 	
 	Concurrence of State Load Despatch Centre for bilateral and collective transactions
 	8.	(1)  Wherever the proposed bilateral transaction has a State utility or an intra-State entity as a buyer or a seller, concurrence of the State Load Despatch Centre shall be obtained in advance and submitted along with the application to the nodal agency. The concurrence of the State Load Despatch Centre shall be in such form as may be provided in the detailed procedure.
-		(2)  When a State utility or an intra-State entity proposes to participate in trading through a power exchange, it shall obtain a “no objection” or a prior standing clearance from the State Load Despatch Centre in such form as may be prescribed in the detailed procedure, specifying the MW up to which the entity may submit a buy or sell bid in a power exchange.
+		(2)  When a State utility or an intra-State entity proposes to participate in trading through power exchange(s), it shall obtain "No Objection" or "Prior Standing Clearance" from the concerned State Load Despatch Centre in such form as may be prescribed in the Detailed Procedure, specifying the aggregate MW up to which the State utility or intra-State entity may submit buy or sell bid(s) in the power exchange(s) taken together. The "No Objection" or "Prior Standing Clearance" issued by the State Load Despatch Centre shall not be exchange specific.
+		(2A) No Objection or Prior Standing Clearance obtained by the State utility or intra-State entity from the State Load Despatch Centre can be used for collective transaction for day ahead on any Power Exchange(s) and/or for bilateral intra-day transaction/contingency transaction in OTC market or on the Power Exchange market:
+			Provided that while making application to SLDC for obtaining No Objection or Prior Standing Clearance for collective transactions for day ahead or for bilateral intra-day transaction/contingency transaction, the applicant shall declare that he agrees to ensure that aggregate quantum in each time block of 15 minutes for all the bid(s) in collective transactions (day ahead contracts on Power Exchange(s)) and/or for intra-day/contingency transactions (in OTC market and/or Power Exchange Market) shall not exceed the quantum for which No Objection or Prior Standing Clearance has been granted:
+			Provided further that the same clearance may be utilized for the day ahead bilateral transaction also, subject to limit of quantum and time as specified in the standing clearance:
+			Provided also that while granting Standing Clearance time period for the clearance may be defined either in time blocks of hours or on the basis of peak period or off-peak period or round the clock (RTC):
+			Provided also that where violations of the limit of quantum and time are reported by SLDC against any entity, the Commission may, after giving an opportunity of hearing, debar the said entity from transacting in power market for seven days.
 		(3)	(a)  For obtaining concurrence or ‘no objection’ or prior standing clearance an application shall be made before the State Load Despatch Centre who shall, acknowledge receipt of the application, either by e-mail or fax, or any other usually recognised mode of communication, within twenty four hours from the time of receipt of the application:
 				Provided that where the application has been submitted in person, the acknowledgement shall be provided at the time of submission of the application.
+				Provided further that while making application to the SLDC for obtaining Concurrence for bilateral transactions (except for intra-day transaction/contingency transactions), an affidavit in the format prescribed in the Detailed Procedure, duly notarized, shall be submitted, along with the application, declaring that:
+					(i)   There is a valid contract with the concerned persons for the sale of the power under the proposed transaction for which concurrence is applied and;
+					(ii)  There is no other contract for sale of the same power as mentioned in (i) above
+				Provided further that while making application to the SLDC for obtaining no objection or prior standing clearance in case of collective transactions, the affidavit shall also include the declaration that there is no other contract for sale of the same power for which no objection or prior standing clearance is applied for.
 			(b)  While processing the application for concurrence or ‘no objection’ or prior standing clearance, as the case may be, the State Load Despatch Centre shall verify the following, namely-
-				(i)   existence of infrastructure necessary for time-block-wise energy metering and accounting in accordance with the provisions of the Grid Code in force, and
-				(ii)  availability of surplus transmission capacity in the State network.
-			(c)  Where existence of necessary infrastructure and availability of surplus transmission capacity in the State network has been established, the State Load Despatch Centre shall convey its concurrence or ‘no objection’ or prior standing clearance, as the case may be, to the applicant by e-mail or fax, in addition to any other usually recognised mode of communication, within three (3) working days of receipt of the application:
+				(i)    existence of infrastructure necessary for time-block-wise energy metering and accounting in accordance with the provisions of the Grid Code in force, and
+				(ii)   availability of surplus transmission capacity in the State network.
+				(iii)  submission of affidavit regarding existence of valid contract according to the second proviso to sub-clause (a) of clause (3) of this regulation with respect to bilateral transactions and according to the last proviso with respect to collective transactions.
+			(c)  Where the existence of necessary infrastructure, availability of surplus transmission capacity in the State network and submission of affidavit as required under provisos to sub-clause (a) of clause (3) of this regulation have been established, the State Load Despatch Centre shall convey its concurrence or no objection or prior standing clearance, as the case may be, to the applicant by e-mail or fax, in addition to any other usually recognized mode of communication, within three (3) working days of receipt of the application.
 				Provided that when short-term open access has been applied for the first time by any person, the buyer or the seller, the State Load Despatch Centre shall convey to the applicant such concurrence or ‘no objection’ or prior standing clearance, as the case may be, within seven (7) working days of receipt of the application by e-mail or fax, in addition to any other usually recognised mode of communication.
 		(3A)  In case the State Load Despatch Centre finds that the application for concurrence or ‘no objection’ or prior standing clearance, as the case may be, is incomplete or defective in any respect, it shall communicate the deficiency or defect to the applicant by e-mail or fax, in addition to any other usually recognised mode of communication, within two (2) working days of receipt of the application:
 			Provided that in cases where the State Load Despatch Centre has communicated any deficiency or defect in the application, the date of receipt of application shall be the date on which the application has been received duly completed, after removing the deficiency or rectifying the defects, as the case may be.
-		(4)  In case the application has been found to be in order but the State Load Despatch Centre refuses to give concurrence or ’no objection’ or prior standing clearance as the case may be, on the grounds of non-existence of necessary infrastructure or unavailability of surplus transmission capacity in the State network, such refusal shall be communicated to the applicant by e-mail or fax, in addition to any other usually recognized mode of communication, within the period of three (3) working days or seven (7) working days, as the case may be, from the date of receipt of the application, specified under clause (3), along with reasons for such refusal:
+		(4)  In case the application has been found to be in order but the State Load Despatch Centre refuses to give concurrence or ’no objection’ or prior standing clearance as the case may be, on the grounds of non-existence of necessary infrastructure or unavailability of surplus transmission capacity in the State network or non-submission of the affidavit in accordance with relevant provisos to sub-clause (a) of clause (3) of this regulation, such refusal shall be communicated to the applicant by e-mail or fax, in addition to any other usually recognized mode of communication, within the period of three (3) working days or seven (7) working days, as the case may be, from the date of receipt of the application, specified under clause (3), along with reasons for such refusal:
 			Provided that where the State Load Despatch Centre has not communicated any deficiency or defect in the application within two (2) days from the date of receipt of application or refusal or concurrence or ‘no objection’ or prior standing clearance, as the case may be, within the specified period of three (3) working days or seven (7) working days, as applicable, from the date of receipt of the application, concurrence or ‘no objection’ or prior standing clearance, as the case may be, shall be deemed to have been granted:
-			Provided further that where concurrence or ‘no objection’ or prior standing clearance, as the case may be, is deemed to have been granted by the State Load Despatch Centre, the applicant while making application shall submit to the nodal agency an affidavit (in the format provided in the detailed procedure), duly notarised, declaring that
-				(a)  the State Load Despatch Centre has failed to convey any deficiency or defect in the application or its refusal or concurrence or ‘no objection’ or prior standing clearance, as the case may be, within the specified time,
-				(b)  necessary infrastructure for time-block-wise energy metering and accounting in accordance with the provisions of the Grid Code in force, is in place; and enclosing with the affidavit –
-					(i)   a copy of the complete application after removal of deficiency or rectification of defects, if any communicated, made to the State Load Despatch Centre for seeking concurrence or ‘no objection’ or prior standing clearance, as the case may be, and
-					(ii)  a copy of the acknowledgement, if any, given by the State Load Despatch Centre, or any other evidence in support of delivery of the application to the State Load Despatch Centre.
+			Provided further that where concurrence or ‘no objection’ or prior standing clearance, as the case may be, is deemed to have been granted by the State Load Despatch Centre, the applicant such as the State utility or the intra-State entity or short term customer as the case may be, shall submit to the nodal agency (concerned Regional Load Despatch Centre) in case of bilateral transactions and the power exchange in case of collective transactions for day ahead or for bilateral intra-day transaction/contingency transaction through power exchange, the following on affidavit in the format as provided in the detailed procedure at least three days in advance:
+				(a)  Declaring that the State Load Despatch Centre has failed to convey any deficiency or defect in the application or its refusal or concurrence or ‘no objection’ or 'prior standing clearance', as the case may be, within the specified time;
+				(b)  Declaring that necessary infrastructure for time-block-wise energy metering and accounting in accordance with the provisions of the Grid Code in force, is in place;
+				(c)  enclosing the following documents:- 
+					(i)    a copy of the complete application made to the State Load Despatch Centre for seeking 'concurrence' or ‘no objection’ or 'prior standing clearance', as the case may be;
+					(ii)   Deficiency or defect in the application, if any, communicated by the State Load Despatch Centre and the action taken to remove or rectify the defect or deficiency;
+					(iii)  a copy of the acknowledgement, if any, given by the State Load Despatch Centre, or any other evidence in support of delivery of the application to the State Load Despatch Centre;
+					(iv)   Necessary affidavit in accordance with provisos to the clause (3 a) of Regulation 8 of this Regulations. 
+			Provided also that the Power Exchange shall forward the copy of the affidavit alongwith the documents received from the State utility or the intra-State entity or short term customer as the case may be, to the nodal agency (National Load Despatch Centre) at least two days before the delivery:
+			Provided also that the concerned Regional Load Despatch Centre in case of bilateral transaction and concerned power exchange in case of collective transaction for day ahead or for bilateral intra-day transaction/contingency transaction through power exchange shall forward the copy of the affidavit alongwith the documents to the concerned SLDC on the same day it is received.
 		(5)  Unless specified otherwise by the State Commission concerned, the State Load Despatch Centre may charge a fee of Rupee five thousand (Rs 5000/-) for processing applications for concurrence or “no objection” or prior standing clearance.
 	
 	Procedure for Advance Scheduling for bilateral transactions
@@ -109,8 +125,9 @@
 	14.	(1)  The short-term open access schedules accepted by the nodal agency in advance or on first-come-first-served basis may be cancelled or revised downwards on an application to that effect made to the nodal agency by the short-term customer:
 			Provided that such cancellation or downward revision of the short-term open access schedules shall not be effective before expiry of a minimum period of two (2) days:
 			Provided further that the day on which notice for cancellation or downward revision of schedule is served on the nodal agency and the day from which such cancellation or downward revision is to be implemented, shall be excluded for computing the period of two (2) days.
+		(1A)  Notwithstanding anything contained in clause (1) of this regulation, in case of forced outage of a unit of the generating station, the scheduling of power under Short Term bilateral transactions shall be regulated in accordance with Regulation 6.5 of the Central Electricity Regulatory Commission (Indian Electricity Grid Code) Regulations, 2010 as amended from time to time.
 		(2)  The person seeking cancellation or downward revision of short-term open access schedule shall pay the transmission charges for the first two (2) days of the period for which the cancellation or downward revision of schedule, as the case may be, has been sought, in accordance with the schedule originally approved by the nodal agency, and thereafter in accordance with the revised schedule prepared by the nodal agency during the period of such cancellation or downward revision.
-		(3)  In case of cancellation, operating charges specified under regulation 17 shall be payable for two (2) days or the period of cancellation in days, whichever is less.
+		(3)  Any person seeking downward revision of short term open access schedule (including revision to zero schedule) shall pay the operating charges specified under Regulation 17 of these regulations corresponding to the number of days for which power has been scheduled and in case of cancellation, operating charges shall be payable in addition for two (2) days or the period of cancellation in days whichever is less.
 	
 	Curtailment in case of transmission constraints
 	15.	(1)  The Regional Load Despatch Centre may curtail power flow on any transmission corridor by cancelling or re-scheduling any transaction, if in its opinion cancellation or curtailment of any such transaction is likely to relieve the transmission constraint on the corridor or to improve grid security:
@@ -120,19 +137,12 @@
 		(3)  In case of curtailment of the approved schedule by the Regional Load Despatch Centre, transmission charges shall be payable pro-rata in accordance with the curtailed schedule: Provided that operating charges shall not be revised in case of curtailment.
 	
 	Transmission Charges
-	16.	(1)  In case of bilateral transactions, the transmission charges at the rate specified hereunder shall be payable by the short-term customer for the energy approved for transmission at the point or points of injection:
-			  
-			  Type of Transaction Transmission charges(Total)	(Rs./MWh)
-			  (a)  Bilateral, intra-regional	80
-			  (b)  Bilateral, between adjacent regions	160
-			  (c)  Bilateral, wheeling through one or more intervening regions	240
-			  
-		(2)  In case of the collective transactions, transmission charges at the rate of Rs. 100/MWh for energy approved for transmission separately for each point of injection and for each point of drawal, shall be payable.
-		(3)  The intra-State entities shall pay the transmission charges for use of the State network as fixed by the respective State Commission in addition to the charges specified under clauses (1) and (2):
-			Provided that in case the State Commission has not determined the transmission charges, the charges for use of respective State network shall be payable at the rate of Rs.80/MWh for the electricity transmitted:
+	16.	(1)  In case of bilateral and collective transactions, transmission charges for the energy approved at the regional periphery for transmission separately for each point of injection and for each point of drawal, shall be payable in accordance with the provisions of Central Electricity Regulatory Commission (Sharing of Inter State Transmission Charges and Losses) Regulations, 2010 as amended from time to time, 
+		(2)  The intra-State entities shall pay the transmission charges for use of the State network as fixed by the respective State Commission in addition to the charges specified under clauses (1) of this regulation:
+			Provided that where the State Commission has not determined the transmission charges for use of the state network in `₹/MWh. The charges for use of respective State network shall be payable at the rate of `80/MWh for the energy approved:
 			Provided further that non-fixation of the transmission charges by the State Commission for use of the State network shall not be a ground for refusal of open access:
-			Provided also that the transmission charges payable for use of the State network shall be conveyed to the Regional Load Despatch Centre concerned who shall display these rates on its web site:
-			Provided also that the transmission charges payable for use of the State network shall not be revised retrospectively.
+			Provided also that the transmission charges payable for use of the State network shall be conveyed by State Load Despatch Centre to the concerned Regional Load Despatch Centre. These charges shall be displayed by the concerned State Load Despatch Centre and Regional Load Despatch Centre on their web sites:
+			Provided also that the transmission charges shall not be revised with retrospective effect.
 	
 	Operating Charges
 	17.	(1)  Operating charges at the rate of Rs. 2,000 /- per day or part of the day for each bilateral transaction for each of the Regional Load Despatch Centre involved and at the rate of Rs.2,000 /- per day or part of the day for each State Load Despatch Centre involved shall be payable by the applicant.
@@ -156,45 +166,41 @@
 	Unscheduled Inter-change (UI) Charges
 	20.	(1)  All transactions for State utilities and for intra-State entities scheduled by the nodal agency under these regulations, shall be accounted for and included in the respective day-ahead net interchange schedules of the concerned regional entity issued by the Regional Load Despatch Centre.
 		(2)  Based on net metering on the periphery of each regional entity, composite UI accounts shall be issued for each regional entity on a weekly cycle and transaction-wise UI accounting, and UI accounting for intra-State entities shall not be carried out at the regional level.
-		(3)  The State utility designated for the purpose of collection / disbursement of UI charges from / to intra-State entities shall be responsible for timely payment of the State’s composite dues to the regional UI pool account.
+		(3)  The State agency designated for the purpose of collection / disbursement of UI charges from / to intra-State entities shall be responsible for timely payment of the State’s composite dues to the regional UI pool account.
 		(4)  Any mismatch between the scheduled and the actual drawal at drawal points and scheduled and the actual injection at injection points for the intra- State entities shall be determined by the concerned State Load Despatch Centre and covered in the intra-State UI accounting scheme.
 		(5)  Unless specified otherwise by the concerned State Commission, UI rate for intra-State entity shall be 105% (for over-drawals or under generation) and 95% (for under-drawals or over generation) of UI rate at the periphery of regional entity.
 		(6)  No charges, other than those specified under these regulations shall be payable by any person granted short-term open access under these regulations.
+			Provided that all payments on account of Unscheduled Interchange Charge (Deviation Charges) including Additional Unscheduled Interchange Charges (Deviation Charges) and interest and implications  for all other aspects of Unscheduled Interchange (Deviation Charges), shall be regulated in accordance with the provisions of Central Electricity Regulatory Commission (Unscheduled Interchange charges and related matters) Regulations, 2009, as amended from time to time or any subsequent re-enactment thereof.
 	
 	Reactive Energy Charges
 	21.	(1)  No separate reactive energy charge accounting for short-term open access transactions shall be carried out at inter-State level:
-			Provided that the State Utility designated for the purpose shall be responsible for timely payment of the State’s composite dues to the regional reactive charge account in accordance with the provisions of the Grid Code.
+			Provided that the State agency designated for the purpose shall be responsible for timely payment of the State’s composite dues to the regional reactive charge account in accordance with the provisions of the Grid Code.
 		(2)  The reactive energy drawals and injections by the intra-State entities shall be governed by the regulations applicable within the State concerned.
 	
 	Special Energy Meters
-	22.	(1)  Special Energy Meters shall be installed by the Central Transmission Utility for and at the cost of the regional entities and by the State Transmission Utility for and at the cost of the intra-State entities.
+	22.	(1)  Special Energy Meters shall be installed by the Central Transmission Utility for and at the cost of the regional entities and by the State Transmission Utility or the distribution licensee as the case may be, for and at the cost of the intra-State entities.
 		(2)  Special Energy Meters installed shall be capable of time-differentiated measurements for time block wise active energy and voltage differentiated measurement of reactive energy in accordance with Annexure – 2 to Chapter–6 of the Grid Code.
 		(3)  Special Energy Meters shall always be maintained in good condition.
 		(4)  Special Energy Meters for the regional entities shall be open for inspection by any person authorized by the Central Transmission Utility or the Regional Load Despatch Centre.
 	
 	Transmission losses
-	23.	(1)  The buyers and sellers of the electricity shall absorb apportioned energy losses in the transmission system as estimated by the Regional Load Despatch Centre and the State Load Despatch Centre concerned, and applied in accordance with the detailed procedure.
-		(2)  The energy losses shall be accounted for by providing a differential between schedules at the points of supply, inter-utility transfer and drawal of electricity.
-		(3)  The applicable transmission losses for the regional transmission system as well as for State network shall be declared in advance and shall not be revised retrospectively.
+	23.	(1)  The buyers and sellers of the electricity shall absorb energy losses in the transmission system as may be determined in accordance with Central Electricity Regulatory Commission (Sharing of Inter-State Transmission Charges and Losses) Regulations, 2010 as amended from time to time and applied in accordance with the Detailed Procedure issued under the said regulations.
+		(2)  The energy losses shall be accounted for by providing a differential between schedules at the points of supply and drawal of electricity. 
+		(3)  The applicable transmission losses shall be declared in advance and shall not be revised retrospectively.
 	
 	Compliance of Grid Code
 	24.  The buyers and sellers of energy shall comply with the provisions of the Grid Code in force from time to time.
 	
-	Collection and Disbursement of transmission charges and operating charges
-	25.	(1)  The transmission charges and the operating charges payable by the persons allowed short-term open access shall be collected and disbursed by the nodal agency, except for transmission charges for State network and operating charges for State Load Despatch Centre in the case of the collective transaction.
-		(2)  The transmission charges collected by the nodal agency for use of the transmission system other than State network, for a bilateral transaction shall be directly disbursed to the long-term customers after disbursing 25% of such transmission charges to the Central Transmission Utility in the following manner -
-			(a)  In case of intra-regional bilateral transaction: 75% of the transmission charges to the region concerned.
-			(b)  In case of bilateral transaction between adjacent regions: 37.5% of the transmission charges for each region.
-			(c)  In case of bilateral transaction through one or more intervening regions: 25% of the transmission charges for each of importing and exporting each region and remaining 25% of the transmission charges to be allocated equally among all intervening regions.
-		(3)  The transmission charges collected for use of the transmission system other than State network for a collective transaction for each point of injection and each point of drawal shall be disbursed by the nodal agency in the following manner, namely-
-			(a)  Central Transmission Utility:	25%
-			(b)  Long-term customers of the region of point of injection or drawal, as the case may be, is situate:	75%
-		(4)  The transmission charges shall be disbursed to the long-term customers in proportion to the monthly transmission charges payable by them.
-		(5)  The transmission charges for use of State network shall be disbursed to the State Transmission Utility concerned.
-		(6)  In case a State utility is the short-term customer, the operating charges and the transmission charges collected by the nodal agency shall not include the charges for use of the State network and operating charges for the State Load Despatch Centre.
+	Collection and disbursement of Transmission Charges:
+	25.	(1) The Transmission charges and the operating charges payable by the persons allowed short-term open access shall be indicated by nodal agency while approving the Open Access. Transmission charges payable for Inter-State Transmission system and Transmission Charges for State network shall be indicated separately. Transmission Charges for the interstate transmission system and intra state transmission system and the Operating Charges of both for RLDC and SLDC shall be collected by the nodal agency in case of bilateral transactions. In case of collective transactions, nodal agency would collect the transmission charges for inter-State transmission system and operating charges of RLDC/NLDC. In the case of collective transactions, the transmission charges for State network and Operating charges for the SLDCs shall be directly settled by the Power Exchange(s) with respective SLDC.
+		(2) The transmission charges collected by the nodal agency for use of the transmission system other than State network, for a bilateral or collective transaction for each point of injection and each point of drawal shall be given to Central Transmission Utility (CTU) for disbursement. The CTU shall disburse these transmission charges to the long-term customers of the synchronously connected grid where the point of injection or point of drawal is situated, as the case may be, in proportion to the monthly transmission charges payable by them after making adjustments against Long-term Access to target region in accordance with the Central Electricity Regulatory Commission (Sharing of Inter-State Transmission Charges and Losses) Regulations, 2010 as amended from time to time.
+		(3) The operating charges payable by the persons allowed short-term open access shall be collected and disbursed by the nodal agency, except for operating charges for State Load Despatch Centre in the case of collective transaction.
+		(4) In case a State utility is the short-term customer, the operating charges and the transmission charges collected by the nodal agency shall not include the charges for use of the State network and the operating charges for the State Load Despatch Centre.
+		(5) The transmission charges for use of State network shall be disbursed to the State Transmission Utility concerned.
+		(6) The wheeling and other charges payable to distribution utilities shall be paid by the applicant seeking open Access in accordance with the Open Access Regulation of the concerned State Commission.
 	
-	Short-term Open Access Not To Be Granted
-	25A.  When so directed by the Commission, the National Load Despatch Centre or the Regional Load Despatch Centre, as the case may be, shall not grant short-term open access to the entities and associates of such entities, who consistently and willfully default in payment of Unscheduled Interchange charges, transmission charges, reactive energy charges, congestion charges and fee and charges for National Load Despatch Centre or Regional Load Despatch Centre including the charges for the Unified Load Despatch and Communication Scheme .
+	Short Term Access not to be granted
+	25A.  When so directed by the Commission, the National Load Despatch Centre or the Regional Load Despatch Centre, as the case may be, shall not grant short-term open access for bilateral transaction (including transactions through Power Exchange ) to the entities and associates of such entities, who consistently and willfully default in payment of Unscheduled Interchange (Deviation) charges, transmission charges, reactive energy charges, congestion charges, fee and charges for National Load Despatch Centre or Regional Load Despatch Centre including the charges for the Unified Load Despatch and Communication Scheme and Unscheduled Interchange (Deviation) charges to SLDC by an intra-State entity for a short term inter-State transaction 
 	
 	Redressal Mechanism
 	26.  All disputes arising under these regulations shall be decided by the Commission based on an application made by the person aggrieved.
@@ -214,7 +220,7 @@
 					The status report shall be updated daily.
 		(d)  Information regarding usage of the inter-regional links.
 		(e)  The information regarding average regional energy losses for the previous 52 weeks.
-		(f)  Transmission charges and applicable transmission losses for various State networks as informed by the State utilities concerned.
+		(f)  Transmission charges and applicable transmission losses for various State networks as informed by the State Transmission Utilities concerned.
 		(g)  The list of short-term open access applications for advance scheduling received as the nodal agency which have not been accepted, along with reasons for denial, to be displayed till one month after the scheduling period.
 	
 	Information System – State Load Despatch Centres
