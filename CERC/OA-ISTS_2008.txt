@@ -150,15 +150,12 @@
 			Provided also that the transmission charges shall not be revised with retrospective effect.
 	
 	Operating Charges
-	17.	(1)  Operating charges at the rate of ₹1000/-, per day or part of the day for each bilateral transaction for each of the Regional Load Despatch Centre involved and at the rate of ₹1000/- per day or part of the day for each State Load Despatch Centre involved shall be payable by the applicant.
-		(2)  In case of collective transaction, operating charges shall be payable by the power exchange at the rate of ₹2000/- per day to the National Load Despatch Centre for each State involved and ₹1000/- per day for the State Load Despatch Centre involved for each point of transaction.
-		(3)  National Load Despatch Centre shall share the operating charges with the Regional Load Despatch Centres in such manner as may be decided by the Central Transmission Utility.
-		(4)  All buyers within a State shall be clubbed together and all sellers within a State shall be clubbed together by the power exchange (with necessary coordination with the State Load Despatch Centre) and each of the groups shall be counted as a single entity by National Load Despatch Centre for levy of operating charges and for scheduling:
-			Provided that for levy of operating charges for State Load Despatch Centre and levy of the intra-State transmission charges, each point of injection or drawal in the State network shall be counted separately.
-		 Note 1
-			 The operating charges include fee for scheduling, system operation and collection and disbursement of charges.
-		 Note 2
-			 The operating charges collected by the nodal agency shall be in addition to the fees and charges specified by the Commission under sub-section (4) of Section 28 of the Act.
+	17.	(1)  Operating charges at the rate of Rs 1000/-, per day or part of the day for each bilateral transaction for each of the Regional Load Despatch Centre involved and at the rate of Rs 1000/- per day or part of the day for each State Load Despatch Centre involved shall be payable by the applicant.
+		(2)  In case of collective transaction, NLDC operating charges shall be payable by each of the successful buyer and seller on the basis of its energy scheduled (MWh) at regional periphery by NLDC for transactions in the respective power exchange.
+		(3)  The NLDC operating charges collected by the power exchanges shall be transferred to NLDC on a daily basis. The rate of NLDC operating charges shall be Re 1/MWh for collective transactions. NLDC operating charges payable by each of the successful buyer and seller in case of collective transaction, for a day, shall be capped to a maximum ceiling of Rs 200 per day.
+		(4)  The Power Exchanges will provide NLDC with a daily list of successful participants along with their volumes cleared and the NLDC operating charges levied on these successful participants.
+		(5)  The successful buyers and sellers shall also pay Rs 1000/- per day for the SLDC involved for each point of the collective transaction.
+		(6)  For the purpose of the levy of operating charges for State Load Despatch Centre and levy of the intra-State transmission charges, each point of the injection or drawal in the State network shall be counted separately.
 	
 	Payment of transmission charges and operating charges
 	18.  In case of the bilateral transaction, the applicant shall deposit with the nodal agency transmission charges and operating charges within three (3) working days of grant of application and in case of collective transactions, the power exchange shall deposit with the nodal agency these charges by the next working day falling after the day on which its application was processed:
