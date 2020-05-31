@@ -11,7 +11,7 @@
 			(e)  “day” means a day starting at 00.00 hours and ending at 24.00 hours;
 			(f)  “detailed procedure” means the procedure issued under regulation 4;
 			(g)  “Grid Code” means the Grid Code specified by the Commission under Clause (h) of sub-section (1) of Section 79 of the Act;
-			(g-a)  “Intra-day transaction/contingency transaction” means the transaction which occurs on day (T) after the closure of day ahead transaction window and the delivery of power is on the same day (T) or next day (T+1) and which are scheduled by Regional Load Despatch Centre or National Load Despatch Centre.
+			(g-a)  “Intra-day transaction/contingency transaction” means the transaction (not being a collective transaction) which occurs on day (T) after the closure of day ahead market window for delivery of power on the same day (T) except for the duration of the specified period of delivery of the real-time market, or for the next day (T+1) and which are scheduled by Regional Load Despatch Centre or National Load Despatch Centre.
 			(h)  “Intra-State entity” means a person whose metering is done by the State Transmission Utility or the Distribution Licensee, as the case may be and the accounting is done by State Load Despatch Centre or any other authorized State Agency.
 			(i)  “long-term customer” means a person granted long-term access for use of the inter-State transmission system.
 			(i-a)  “medium-term customer” means a person granted medium-term open access for use of the inter-State transmission system.
@@ -22,6 +22,7 @@
 			(k)  “nodal agency” means the nodal agency defined in Regulation 5 of these regulations;
 			
 			(m)  “power exchange” means the power exchange established with the prior approval of the Commission;
+			(ma)  “Real-time transactions” means the collective transactions which occur on the day (T) or (T-1) after the right to revision of schedule ends for a specified duration of delivery during the day (T)and which are scheduled by Regional Load Despatch Centre or National Load Despatch Centre.
 			(n)  “regional entity” means a person whose metering and energy accounting is done at the regional level;
 			(n-a)  “short-term open access” means open access for a period up to one (1) month at one time.
 			(n-b)  “short-term customer” means a person who has availed or intends to avail short-term open access.
@@ -143,6 +144,9 @@
 	Procedure for scheduling collective transactions 
 	13A.  The Power Exchange shall make an application to the nodal agency through the NOAR for scheduling of the collective transactions discovered on its platform. The nodal agency shall approve or advise the Power Exchange to revise the application for scheduling of collective transactions based on the transmission corridor availability in accordance with the detailed procedures.
 	
+	Procedure for scheduling of transaction in Real-time market(RTM)
+	13(B).  All the entities participating in the real-time market for a specified duration may place their bids and offers on the Power Exchanges for purchase and sale of power. The window for trade in real-time market for day (T) shall open from 22.45hrs to 23.00hrs of (T-1) for the delivery of power for the first two time-blocks of 1st hour of day (T) i.e., 00.00 hrs to 00.30 hrs, and will be repeated every half an hour thereafter. The bidding mechanism for the real-time market shall be double-side closed bid auction for each time block of the delivery period. The Nodal Agency shall indicate to the Power Exchange(s) the available margin on each of the transmission corridors before the gate closure, i.e. before the window for trade closes for specified duration. The power exchanges shall clear the real-time market from 23.00hrs till 23.15hrs based on the available transmission corridor and the buy and sell bids for the real time market (RTM) for the specified duration. Then the cleared bids shall be submitted by the Power Exchanges to the Nodal Agency for scheduling. The Nodal agency in accordance with the detailed procedure shall announce the final schedule by 23.45 hrs of (T-1) and communicate to the RLDCs to prepare the schedule for dispatch.
+	
 	Revision of Schedule
 	14.	(1)  The short-term open access schedules accepted by the nodal agency in advance or on first-come-first-served basis may be cancelled or revised downwards on an application to that effect made to the nodal agency by the short-term customer through NOAR:
 			Provided that such cancellation or downward revision of the short-term open access schedules shall not be effective before expiry of a minimum period of two (2) days:
@@ -153,6 +157,7 @@
 	
 	Curtailment in case of transmission constraints
 	15.	(1)  The Regional Load Despatch Centre may curtail power flow on any transmission corridor by cancelling or re-scheduling any transaction, if in its opinion cancellation or curtailment of any such transaction is likely to relieve the transmission constraint on the corridor or to improve grid security:
+			Provided also that while curtailing collective transactions, day ahead transactions shall be curtailed first followed by real time transactions.
 			Provided that subject to provisions of the Grid Code, while cancellation or curtailment of any transaction, among short-term, medium-term and long-term transactions, short-term transactions shall be cancelled or curtailed first, followed by medium -term and thereafter long term–transactions:
 			Provided further that while cancelling or curtailing any short-term transaction, bilateral transactions shall be cancelled or curtailed first followed by collective transactions.
 		(2)  In case of inter-regional bilateral transactions, approved schedule may be revised or cancelled by the Regional Load Despatch Centre, if the Central Government allocates power from a central generating station in one region to a person in the other region and such allocation, in the opinion of the Regional Load Despatch Centre, cannot otherwise be implemented because of congestion in inter-regional link. The intimation about such revision or cancellation shall, as soon as possible, be conveyed to the affected short-term customers through NOAR.
@@ -185,7 +190,7 @@
 		(2)  Notwithstanding the above, the person committing default in payment shall pay simple interest at the rate of 0.04% for each day of default.
 	
 	Unscheduled Inter-change (UI) Charges
-	20.	(1)  All transactions for State utilities and for intra-State entities scheduled by the nodal agency under these regulations, shall be accounted for and included in the respective day-ahead net interchange schedules of the concerned regional entity issued by the Regional Load Despatch Centre.
+	20.	(1)  All transactions for State utilities and for intra-State entities scheduled by the nodal agency under these regulations, after accounting the changes in the schedules after the execution of the real-time market, shall be accounted for and included in the respective day-ahead net interchange schedules of the concerned regional entity issued by the Regional Load Despatch Centre.
 		(2)  Based on net metering on the periphery of each regional entity, composite UI accounts shall be issued for each regional entity on a weekly cycle and transaction-wise UI accounting, and UI accounting for intra-State entities shall not be carried out at the regional level.
 		(3)  The State agency designated for the purpose of collection / disbursement of UI charges from / to intra-State entities shall be responsible for timely payment of the State’s composite dues to the regional UI pool account.
 		(4)  Any mismatch between the scheduled and the actual drawal at drawal points and scheduled and the actual injection at injection points for the intra- State entities shall be determined by the concerned State Load Despatch Centre and covered in the intra-State UI accounting scheme.
