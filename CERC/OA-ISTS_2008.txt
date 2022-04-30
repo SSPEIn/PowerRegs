@@ -18,6 +18,7 @@
 			(j)  “month” means a calendar month as per the British calendar;
 			(j-a)  National Load Despatch Centre Operating Charges (NLDC operating charges) or Regional Load Despatch Centre Operating Charges (RLDC operating charges) shall include the fees for scheduling, system operation, collection and disbursement of charges in respect of short term open access transactions for inter-State transmission of electricity;
 				Provided that the operating charges collected by the nodal agency shall be in addition to the fees and charges specified by the Commission under sub-section (4) of Section 28 of the Act.
+			(j-b)  'National Open Access Registry (NOAR)' means the Registry as provided under Regulation 3A;
 			(k)  “nodal agency” means the nodal agency defined in Regulation 5 of these regulations;
 			
 			(m)  “power exchange” means the power exchange established with the prior approval of the Commission;
@@ -41,75 +42,88 @@
 			(b) margins available due to variation in power flows; and
 			(c) Margins available due to in-built spare transmission capacity created to cater to future load growth or generation addition:
 	
+	National Open Access Registry (NOAR) 
+	3A.	(1)  NOAR shall be a common electronic platform for short term open access and shall discharge the following functions, namely: 
+			i.  To automate the administration of the short term open access in inter state transmission system. 
+			ii. To provide single window electronic platform to the stakeholders, including short term customers, trading licensees, Power Exchanges, NLDC, RLDCs, SLDCs and Regional Power Committees in connection with short term open access in inter-state transmission system. 
+			iii. To provide audit trail of the applications and dash board facility summarizing at any point of time the details of the  applications made for short term open access to RLDCs or SLDCs, applications approved or rejected by RLDCs or SLDCs, and applications pending with RLDCs or SLDCs. 
+			iv. To act as a repository of information related to short term open access in inter-state transmission including standing clearance issued by RLDCs or SLDCs, availability of transmission corridor, and short term open access granted to the open access customers etc. and make such information available to the stakeholders online. 
+			v. To interface with the short term open access application software of the RLDCs and SLDCs for processing short-term inter-state open access transactions. 
+			vi. To interface with the Power Exchange(s) for validation of standing clearance and processing of term-ahead and day-ahead transactions. 
+			vii. To provide a payment gateway for making payments related to short term open access transactions and facilitate financial accounting and tracking of short term open access transactions. 
+			viii. To facilitate generation of periodic reports for market monitoring and surveillance related activities. 
+			ix. Any other functions, as assigned by the Commission from time to time. 
+		(2)  The short term open access applications shall be processed through NOAR and information related to approvals or rejections of applications, revisions or curtailment of schedules, payment schedules, etc. shall be made available through the NOAR to the respective market participants including providing alerts through email or SMS or such other electronic mode of communication. 
+		(3)  NLDC shall be the nodal agency for implementation and operation of NOAR and shall have the following responsibilities: 
+			i.  To take all steps necessary to ensure cyber security compliance of NOAR in accordance with Cyber Security Policy of Government of India;  
+			ii. To put in place an appropriate disaster recovery mechanism for ensuring business continuity; and 
+			iii. To review the operations of NOAR from time to time and suggest changes required if any. 
+		(4)  Additional expenses incurred on account of implementing and operating the NOAR shall be allowed to be recovered under the provisions of CERC (Fees and Charges of RLDC and --other related matters) Regulations, 2009.
+	
 	Detailed Procedure
-	4.  Subject to the provisions of these regulations, the Central Transmission Utility, till the Regional Load Despatch Centre is operated by it and thereafter the Government company or any authority or corporation notified by the Central Government under sub-section (2) of Section 27 of the Act: shall, after obtaining prior approval of the Commission, issue the detailed procedure to operationalise open access and on any residual matter not covered under these regulations.
+	4.  Subject to the provisions of these regulations, NLDC shall issue the detailed procedure to operationalise open access through NOAR and on any residual matter not covered under these regulations.
+		Provided that NLDC shall carry out stakeholders’ consultation and obtain the approval of the Commission before issue of the detailed procedure. 
 	
 	Nodal Agency
 	5.  The nodal agency for bilateral transactions shall be the Regional Load Despatch Centre of the region where point of drawal of electricity is situated and in case of the collective transactions, the nodal agency shall be the National Load Despatch Centre.
 	
+	5A.  The processing of the short term open access applications for bilateral transactions by the nodal RLDC and for collective transactions through Power Exchange(s) by NLDC shall be carried out through the NOAR.
+	
+	Registration in NOAR 
+	5B.	(1)  The short term open access applicant shall initially apply for registration in the NOAR in accordance with the detailed procedure.  
+		(2)  The application shall be accompanied by a registration fees of Rs. 5000/- . 
+		(3)  The applicant shall be registered within 7 working days from the date of receipt of application for registration.  
+		(4) The registration shall be valid for a period of 3 years and may be renewed thereafter with the payment of renewal charges of Rs. 2000/-.
+	
 	Submission of Short-term Open Access Application
-	6.	(1)  A short-term customer or the power exchange (on behalf of buyers and sellers) intending to avail of open access for use of the transmission lines or associated facilities for such lines on the inter-State transmission system, shall make an application to the nodal agency in accordance with these regulations.
+	6.	(1)  A short-term customer or the power exchange (on behalf of buyers and sellers) intending to avail of open access for use of the transmission lines or associated facilities for such lines on the inter-State transmission system, shall make an application to the nodal agency through NOAR in accordance with these regulations.
 		(2)  The application for a bilateral transaction shall contain the details, such as names and location of supplier and buyer, contracted power (MW) to be scheduled and interface at which it is referred to, point of injection, point of drawal, starting time block and date, ending time block and date, and such other information that may be required in the detailed procedure.
 		(3)  The application for a collective transaction shall contain the requisite details in accordance with the detailed procedure.
 	
 	Application Fee
 	7.  An application made for each bilateral transaction or the collective transaction shall be accompanied by a non-refundable fee of Rupees five thousand (Rs.5000/-) only:
-			Provided that the fee for bilateral transaction on the day of the application or on the day immediately following the day of the application may be deposited within three working days of submission of the application.
-	
-	Concurrence of State Load Despatch Centre for bilateral and collective transactions
-	8.	(1)  Wherever the proposed bilateral transaction has a State utility or an intra-State entity as a buyer or a seller, concurrence of the State Load Despatch Centre shall be obtained in advance and submitted along with the application to the nodal agency. The concurrence of the State Load Despatch Centre shall be in such form as may be provided in the detailed procedure.
-		(2)  When a State utility or an intra-State entity proposes to participate in trading through power exchange(s), it shall obtain "No Objection" or "Prior Standing Clearance" from the concerned State Load Despatch Centre in such form as may be prescribed in the Detailed Procedure, specifying the aggregate MW up to which the State utility or intra-State entity may submit buy or sell bid(s) in the power exchange(s) taken together. The "No Objection" or "Prior Standing Clearance" issued by the State Load Despatch Centre shall not be exchange specific.
-		(2A) No Objection or Prior Standing Clearance obtained by the State utility or intra-State entity from the State Load Despatch Centre can be used for collective transaction for day ahead on any Power Exchange(s) and/or for bilateral intra-day transaction/contingency transaction in OTC market or on the Power Exchange market:
-			Provided that while making application to SLDC for obtaining No Objection or Prior Standing Clearance for collective transactions for day ahead or for bilateral intra-day transaction/contingency transaction, the applicant shall declare that he agrees to ensure that aggregate quantum in each time block of 15 minutes for all the bid(s) in collective transactions (day ahead contracts on Power Exchange(s)) and/or for intra-day/contingency transactions (in OTC market and/or Power Exchange Market) shall not exceed the quantum for which No Objection or Prior Standing Clearance has been granted:
-			Provided further that the same clearance may be utilized for the day ahead bilateral transaction also, subject to limit of quantum and time as specified in the standing clearance:
-			Provided also that while granting Standing Clearance time period for the clearance may be defined either in time blocks of hours or on the basis of peak period or off-peak period or round the clock (RTC):
-			Provided also that where violations of the limit of quantum and time are reported by SLDC against any entity, the Commission may, after giving an opportunity of hearing, debar the said entity from transacting in power market for seven days.
-		(3)	(a)  For obtaining concurrence or ‘no objection’ or prior standing clearance an application shall be made before the State Load Despatch Centre who shall, acknowledge receipt of the application, either by e-mail or fax, or any other usually recognised mode of communication, within twenty four hours from the time of receipt of the application:
-				Provided that where the application has been submitted in person, the acknowledgement shall be provided at the time of submission of the application.
-				Provided further that while making application to the RLDC/SLDC for obtaining concurrence for bilateral transactions (except for intra-day transaction/contingency transactions), an affidavit in the format prescribed in the Detailed Procedure, duly notarized, shall be submitted, along with the application, declaring that:
-					(i)   There is a valid contract with the concerned persons for the sale or purchase, as the case may be, of power under the proposed transaction for which concurrence is applied for, and;
-					(ii)  There is no other contract for sale or purchase, as the case may be, of the same power as mentioned in (i) above
-				Provided further that while making application to the SLDC for obtaining no objection or prior standing clearance in case of collective transactions, the affidavit shall also include the declaration that there is no other contract for sale or purchase, as the case may be, of the same power for which no objection or prior standing clearance is applied for.
-			(b)  While processing the application for concurrence or ‘no objection’ or prior standing clearance, as the case may be, the State Load Despatch Centre shall verify the following, namely-
-				(i)    existence of infrastructure necessary for time-block-wise energy metering and accounting in accordance with the provisions of the Grid Code in force, and
-				(ii)   availability of surplus transmission capacity in the State network.
-				(iii)  submission of affidavit regarding existence of valid contract according to the second proviso to sub-clause (a) of clause (3) of this regulation with respect to bilateral transactions and according to the last proviso with respect to collective transactions.
-			(c)  Where the existence of necessary infrastructure, availability of surplus transmission capacity in the State network and submission of affidavit as required under provisos to sub-clause (a) of clause (3) of this regulation have been established, the State Load Despatch Centre shall convey its concurrence or no objection or prior standing clearance, as the case may be, to the applicant by e-mail or fax, in addition to any other usually recognized mode of communication, within three (3) working days of receipt of the application.
-				Provided that when short-term open access has been applied for the first time by any person, the buyer or the seller, the State Load Despatch Centre shall convey to the applicant such concurrence or ‘no objection’ or prior standing clearance, as the case may be, within seven (7) working days of receipt of the application by e-mail or fax, in addition to any other usually recognised mode of communication.
-		(3A)  In case the State Load Despatch Centre finds that the application for concurrence or ‘no objection’ or prior standing clearance, as the case may be, is incomplete or defective in any respect, it shall communicate the deficiency or defect to the applicant by e-mail or fax, in addition to any other usually recognised mode of communication, within two (2) working days of receipt of the application:
-			Provided that in cases where the State Load Despatch Centre has communicated any deficiency or defect in the application, the date of receipt of application shall be the date on which the application has been received duly completed, after removing the deficiency or rectifying the defects, as the case may be.
-		(4)  In case the application has been found to be in order but the State Load Despatch Centre refuses to give concurrence or ’no objection’ or prior standing clearance as the case may be, on the grounds of non-existence of necessary infrastructure or unavailability of surplus transmission capacity in the State network or non-submission of the affidavit in accordance with relevant provisos to sub-clause (a) of clause (3) of this regulation, such refusal shall be communicated to the applicant by e-mail or fax, in addition to any other usually recognized mode of communication, within the period of three (3) working days or seven (7) working days, as the case may be, from the date of receipt of the application, specified under clause (3), along with reasons for such refusal:
-			Provided that where the State Load Despatch Centre has not communicated any deficiency or defect in the application within two (2) days from the date of receipt of application or refusal or concurrence or ‘no objection’ or prior standing clearance, as the case may be, within the specified period of three (3) working days or seven (7) working days, as applicable, from the date of receipt of the application, concurrence or ‘no objection’ or prior standing clearance, as the case may be, shall be deemed to have been granted:
-			Provided further that where concurrence or ‘no objection’ or prior standing clearance, as the case may be, is deemed to have been granted by the State Load Despatch Centre, the applicant such as the State utility or the intra-State entity or short term customer as the case may be, shall submit to the nodal agency (concerned Regional Load Despatch Centre) in case of bilateral transactions and the power exchange in case of collective transactions for day ahead or for bilateral intra-day transaction/contingency transaction through power exchange, the following on affidavit in the format as provided in the detailed procedure at least three days in advance:
-				(a) Declaring that the State Load Despatch Centre has failed to convey any deficiency or defect in the application or its refusal or concurrence or ‘no objection’ or 'prior standing clearance', as the case may be, within the specified time;
-				(b) Declaring that necessary infrastructure for time-block-wise energy metering and accounting in accordance with the provisions of the Grid Code in force, is in place;
-				(c) enclosing the following documents:- 
-					(i) a copy of the complete application made to the State Load Despatch Centre for seeking 'concurrence' or ‘no objection’ or 'prior standing clearance', as the case may be;
-					(ii) Deficiency or defect in the application, if any, communicated by the State Load Despatch Centre and the action taken to remove or rectify the defect or deficiency;
-					(iii) a copy of the acknowledgement, if any, given by the State Load Despatch Centre, or any other evidence in support of delivery of the application to the State Load Despatch Centre;
-					(iv) Necessary affidavit in accordance with provisos to the clause (3 a) of Regulation 8 of this Regulations. 
-			Provided also that the Power Exchange shall forward the copy of the affidavit alongwith the documents received from the State utility or the intra-State entity or short term customer as the case may be, to the nodal agency (National Load Despatch Centre) at least two days before the delivery:
-			Provided also that the concerned Regional Load Despatch Centre in case of bilateral transaction and concerned power exchange in case of collective transaction for day ahead or for bilateral intra-day transaction/contingency transaction through power exchange shall forward the copy of the affidavit alongwith the documents to the concerned SLDC on the same day it is received.
-		(5)  Unless specified otherwise by the State Commission concerned, the State Load Despatch Centre may charge a fee of Rupee five thousand (Rs 5000/-) for processing applications for concurrence or “no objection” or prior standing clearance.
+		
+	Standing clearance by Load Despatch Centre for Short Term Transactions
+	8.	(1)  An online application, through the NOAR, shall be made by the short term open access applicant to the concerned RLDC or SLDC, for issuance of a ‘standing clearance’ for availing short term open access in inter-state transmission system for a pre-specified quantum and time period in accordance with the detailed procedures along with the following declaration: 
+			i.  A declaration in the format prescribed in the detailed procedure shall be submitted along with the application declaring that there is no other contract for sale or purchase, as the case may be, of the same power for which standing clearance has been applied for. 
+			ii. A declaration that necessary infrastructure for the time block wise metering and accounting in accordance with the provisions of Grid code in force, is in place. 
+		(2)  While processing the application for standing clearance the concerned RLDC or SLDC as the case may be, shall verify the following, namely: 
+			(i)    Existence of infrastructure necessary for time-block wise energy metering and accounting in accordance with the provisions of the Grid code in force;  
+			(ii)   Availability of surplus transmission capacity in the intra-State/inter State network, as the case may be; and 
+			(iii)  Submission of declaration according to the clause (1) of this regulation.  
+		(3) Where the existence of necessary infrastructure, availability of surplus transmission capacity in the inter-state transmission or intra-state transmission network as the case may be, and submission of declaration as required under clause (1) of this regulation have been established, the concerned RLDC or SLDC as the case may be, shall issue a standing clearance to the short term open access customer. 
+			Provided that 
+				i.    The concerned RLDC or SLDC as the case may be, shall issue the standing clearance within three (3) working days of receipt of such application.  
+				ii.   The standing clearance may be issued by the concerned RLDC or SLDC as the case may be, valid for a maximum period of three (3) months at a time after which a fresh application for issuance of standing clearance shall have to be made by the short term open access customer. 
+				iii.  When short-term open access has been applied for the first time by any entity, the buyer or the seller, the concerned RLDC or SLDC as the case may be, shall issue to the applicant standing clearance, within seven (7) working days of receipt of the application. 
+		(4) In case the concerned RLDC or SLDC as the case may be, finds that the application for standing clearance is incomplete or defective in any respect, it shall communicate the deficiency or defect to the applicant through NOAR within two (2) working days of receipt of application. 
+			Provided that in cases where the concerned RLDC or SLDC as the case may be, has communicated any deficiency or defect in the application, the date of receipt of application shall be the date on which the application has been received duly completed after removing the deficiency or rectifying the defects, as the case may be. 
+		(5) In case the application has been found to be in order but the concerned RLDC or SLDC as the case may be, refuses to give the standing clearance on the grounds of non-existence of necessary infrastructure or unavailability of surplus transmission capacity in  intra-state/inter-state network as the case may be, or non-submission of the declaration in accordance with clause (1) of this regulation then such refusal shall be communicated to the applicant through NOAR within the period of three (3) working days or seven (7) working days as the case may be, from the date of receipt of the application along with reasons for such refusal.  
+			Provided that where the concerned RLDC or SLDC as the case may be, has not communicated any deficiency or defect in the application within two (2) days from the receipt of the application or refusal or standing clearance, as the case may be, within the specified period of three (3) working days or seven (7) working days, as applicable, from the date of receipt of the application, the NOAR shall issue a reminder message to the concerned RLDC or SLDC as the case may be, to respond to the application for refusal or issuance of standing clearance, as the case may be, within the next two (2) working days.  
+			Provided further that if the concerned RLDC or SLDC as the case may be, fails to respond to the reminder message sent through NOAR, then the standing clearance shall be deemed to have been granted.  
+		(6) The open access customer to whom the standing clearance has been issued or deemed to have been issued, shall ensure that aggregate quantum in each time block of 15 minutes for all the bid(s) under any of the categories of short term bilateral and collective transactions in OTC market and/or Power Exchange(s) market shall not exceed the quantum of standing clearance or deemed standing clearance, as the case may be. 
+			Provided that if a short term open access customer exceeds the quantum of the standing clearance in any time block, NLDC shall debar the said customer from participating in short term market for a period of seven (7) days under intimation to concerned RLDC or SLDC.    
+			Provided further that NOAR shall also display a list of such short term open access customers debarred in terms of the above proviso. 
+		(7) The concerned RLDC or SLDC as the case may be, may revise the quantum (MW) or period of the standing clearance issued in respect of any open access customer in case of transmission constraint or in the interest of secure grid operation in accordance with the detailed procedure.
 	
 	Procedure for Advance Scheduling for bilateral transactions
-	9.	(1)  An application for advance scheduling for a bilateral transaction may be submitted to the nodal agency up to the fourth month, the month in which an application is made being the first month:
+	9.	(1)  An application for advance scheduling for a bilateral transaction may be submitted to the nodal agency through NOAR up to the fourth month, the month in which an application is made being the first month:
 			 Provided that separate application shall be made for each month, and for each transaction.
 		(2)	(a)  An application for inter-State scheduling during the fourth month shall be made up to the last day of the first month.
 			(b)  All applications received shall be taken up together for consideration.
-			(c)  The nodal agency shall convey its acceptance or otherwise to the applicant latest by the fifth day of the second month.
+			(c)  The nodal agency shall convey its acceptance or otherwise to the applicant through NOAR latest by the fifth day of the second month.
 		(3)	(a)  An application for inter-State scheduling during the third month shall be made up to five (5) days prior to the close of the first month.
 			(b)  All applications received shall be taken up together for consideration.
-			(c)  The nodal agency shall convey its acceptance or otherwise to the applicant latest by the close of the first month:
+			(c)  The nodal agency shall convey its acceptance or otherwise to the applicant through NOAR latest by the close of the first month:
 				Provided that while accepting the application, short-term open access granted to any person prior thereto shall not be withdrawn.
 		(4)	(a)  An application for inter-State scheduling in the second month shall be made with the nodal agency up to ten (10) days prior to the close of the first month.
 			(b)  All applications shall be taken up together for consideration.
-			(c)  The nodal agency shall convey its acceptance or otherwise to the applicant five days prior to the last day of the first month:
+			(c)  The nodal agency shall convey its acceptance or otherwise to the applicant through NOAR five days prior to the last day of the first month:
 				Provided that while accepting the application, short-term open access granted to any person prior thereto shall not be withdrawn.
-		(5)  Wherever the nodal agency rejects an application, it shall convey its reasons to the applicant in writing.
+		(5)  Wherever the nodal agency rejects an application, it shall convey its reasons to the applicant through NOAR in writing.
 	
 	Congestion management
-	10.  Where in the opinion of the nodal agency, grant of all applications at a particular stage of advance scheduling is likely to cause congestion in one or more of the transmission corridors to be used, it shall conduct electronic bidding for grant of short-term open access for the available surplus transmission capacity among the applicants at that stage, in accordance with the detailed procedure:
+	10.  Where in the opinion of the nodal agency, grant of all applications at a particular stage of advance scheduling is likely to cause congestion in one or more of the transmission corridors to be used, it shall conduct electronic bidding through NOAR for grant of short-term open access for the available surplus transmission capacity among the applicants at that stage, in accordance with the detailed procedure:
 			 Provided that if any person does not participate in the bidding process he shall be deemed to have withdrawn his application.
 	
 	Procedure for scheduling of bilateral transactions on first-come-first-served
@@ -118,16 +132,19 @@
 				Provided further that separate application shall be made for each transaction.
 		(2)  All these applications shall be processed and decided within three (3) days of their receipt.
 	
-	Procedure for scheduling for day-ahead transactions
+	Procedure for scheduling for day-ahead bilateral transactions
 	12.  All applications for bilateral transactions received within three days prior to the date of scheduling and up to 1500 hrs of the day immediately preceding the date of scheduling shall be clubbed and treated at par, and shall be processed after processing of the applications for collective transactions received till 1500 hrs.
 		 Illustration:
 			 An application for scheduling a transaction on 25th day of a month, shall be processed on first-come-first-served basis only if such application is received till 21st day of that month. If the application is received on 22nd day or 23rd day or up to 1500 hrs on 24th day, it shall be treated only after processing of the applications for collective transactions received up to 1500 hrs on 24th day for scheduling on 25th day.
 	
-	Procedure for scheduling of transactions in a contingency
-	13.  In the event of a contingency, the buyer or on its behalf, a trader may locate, and the power exchange may offer its platform to locate, a source of power to meet short-term contingency requirements even after the cut-off time of 1500 hrs of the preceding day and apply to the nodal agency for short-term open access and scheduling and in that event, the nodal agency shall endeavour to accommodate the request as soon as may be and to the extent practically feasible, in accordance with the detailed procedure.
+	Procedure for scheduling of contingency bilateral transactions
+	13.  In the event of a contingency, the buyer or on its behalf, a trader may locate, and the power exchange may offer its platform to locate, a source of power to meet short-term contingency requirements even after the cut-off time of 1500 hrs of the preceding day and apply to the nodal agency for short-term open access and scheduling through NOAR and in that event, the nodal agency shall endeavour to accommodate the request as soon as may be and to the extent practically feasible, in accordance with the detailed procedure.
+	
+	Procedure for scheduling collective transactions 
+	13A.  The Power Exchange shall make an application to the nodal agency through the NOAR for scheduling of the collective transactions discovered on its platform. The nodal agency shall approve or advise the Power Exchange to revise the application for scheduling of collective transactions based on the transmission corridor availability in accordance with the detailed procedures.
 	
 	Revision of Schedule
-	14.	(1)  The short-term open access schedules accepted by the nodal agency in advance or on first-come-first-served basis may be cancelled or revised downwards on an application to that effect made to the nodal agency by the short-term customer:
+	14.	(1)  The short-term open access schedules accepted by the nodal agency in advance or on first-come-first-served basis may be cancelled or revised downwards on an application to that effect made to the nodal agency by the short-term customer through NOAR:
 			Provided that such cancellation or downward revision of the short-term open access schedules shall not be effective before expiry of a minimum period of two (2) days:
 			Provided further that the day on which notice for cancellation or downward revision of schedule is served on the nodal agency and the day from which such cancellation or downward revision is to be implemented, shall be excluded for computing the period of two (2) days.
 		(1A)  Notwithstanding anything contained in clause (1) of this regulation, in case of forced outage of a unit of the generating station, the scheduling of power under Short Term bilateral transactions shall be regulated in accordance with Regulation 6.5 of the Central Electricity Regulatory Commission (Indian Electricity Grid Code) Regulations, 2010 as amended from time to time.
@@ -138,7 +155,7 @@
 	15.	(1)  The Regional Load Despatch Centre may curtail power flow on any transmission corridor by cancelling or re-scheduling any transaction, if in its opinion cancellation or curtailment of any such transaction is likely to relieve the transmission constraint on the corridor or to improve grid security:
 			Provided that subject to provisions of the Grid Code, while cancellation or curtailment of any transaction, among short-term, medium-term and long-term transactions, short-term transactions shall be cancelled or curtailed first, followed by medium -term and thereafter long term–transactions:
 			Provided further that while cancelling or curtailing any short-term transaction, bilateral transactions shall be cancelled or curtailed first followed by collective transactions.
-		(2)  In case of inter-regional bilateral transactions, approved schedule may be revised or cancelled by the Regional Load Despatch Centre, if the Central Government allocates power from a central generating station in one region to a person in the other region and such allocation, in the opinion of the Regional Load Despatch Centre, cannot otherwise be implemented because of congestion in inter-regional link. The intimation about such revision or cancellation shall, as soon as possible, be conveyed to the affected short-term customers.
+		(2)  In case of inter-regional bilateral transactions, approved schedule may be revised or cancelled by the Regional Load Despatch Centre, if the Central Government allocates power from a central generating station in one region to a person in the other region and such allocation, in the opinion of the Regional Load Despatch Centre, cannot otherwise be implemented because of congestion in inter-regional link. The intimation about such revision or cancellation shall, as soon as possible, be conveyed to the affected short-term customers through NOAR.
 		(3)  In case of curtailment of the approved schedule by the Regional Load Despatch Centre, transmission charges shall be payable pro-rata in accordance with the curtailed schedule: Provided that operating charges shall not be revised in case of curtailment.
 	
 	Transmission Charges
@@ -160,6 +177,8 @@
 	Payment of transmission charges and operating charges
 	18.  In case of the bilateral transaction, the applicant shall deposit with the nodal agency transmission charges and operating charges within three (3) working days of grant of application and in case of collective transactions, the power exchange shall deposit with the nodal agency these charges by the next working day falling after the day on which its application was processed:
 		Provided that in case of the collective transactions, the transmission charges for use of State network and operating charges for State Load Despatch Centre shall be settled directly by the power exchange with respective State Load Despatch Centre.
+	
+	18A.  All charges payable under these regulations shall be paid online through the payment gateway made available in the NOAR.
 	
 	Default in payment of short-term open access charges
 	19.	(1)  In case of default in payment of the application fee or the charges specified under these regulations, the nodal agency may, in its discretion, decide not to schedule the transaction, or to cancel the scheduling of already scheduled transaction or not to entertain any application of such persons in future until such time the default is cured.
@@ -203,12 +222,13 @@
 	
 	Short Term Access not to be granted
 	25A.  When so directed by the Commission, the National Load Despatch Centre or the Regional Load Despatch Centre, as the case may be, shall not grant short-term open access for bilateral transaction (including transactions through Power Exchange ) to the entities and associates of such entities, who consistently and willfully default in payment of Unscheduled Interchange (Deviation) charges, transmission charges, reactive energy charges, congestion charges, fee and charges for National Load Despatch Centre or Regional Load Despatch Centre including the charges for the Unified Load Despatch and Communication Scheme and Unscheduled Interchange (Deviation) charges to SLDC by an intra-State entity for a short term inter-State transaction 
+		Provided that where the default in payment of the charges as mentioned above exceeds 90 days from the due date of payment, directions of the Commission shall not be required to be obtained in such cases and the NLDC or concerned RLDC , as the case may be, shall deny short term open access to the defaulting entity if request in this regard is received from the affected entity.
 	
 	Redressal Mechanism
 	26.  All disputes arising under these regulations shall be decided by the Commission based on an application made by the person aggrieved.
 	
-	Information System – National Load Despatch Centre and Regional Load Despatch Centres
-	27.  National Load Despatch Centre and each Regional Load Despatch Centre shall post the following information on their websites in a separate web-page titled “Short-term Open access information”:
+	Information System – NOAR
+	27.  NOAR shall give information regarding open access in interstate transmission including but not limited to the following:
 		(a)  These regulations;
 		(b)  The detailed procedure;
 		(c)  A list of bilateral transactions accepted by the nodal agency, to be displayed till the end of the month in which transactions are scheduled, indicating:
@@ -227,16 +247,16 @@
 	
 	Information System – State Load Despatch Centres
 	27A.  Each State Load Despatch Centre, shall within 60 days of coming into force of these regulations, develop its website and post the following information on separate web-page titled “information on Inter-State Open Access”:
-		(a)  List of bilateral transactions for which concurrence has been granted and list of entities to whom concurrence or “no objection” or prior standing clearance, as the case may be, has been granted till the end of the month in which such concurrence or no objection or prior standing clearance has been granted, indicating:
+		(a)  List of entities to whom standing clearance, has been granted till the end of the month indicating:
 			(i)    Name of customer;
-			(ii)   Period of concurrence or “no objection” or standing clearance, as the case may be, (start date and end date);
+			(ii)   Period of standing clearance (start date and end date);
 			(iii)  Point or points of injection and drawal,; and
 			(iv)   Accepted schedule (MW).
 			Note
 				The status report shall be updated daily.
 		(b)  Average transmission losses for the State network for the immediately preceding 52 weeks;
 		(c)  Applicable transmission charges and transmission losses for the State network;
-		(d)  List of applications where concurrence or “no objection” or standing clearance, as the case may be, was not granted, along with reasons for refusal, to be displayed till one month after the scheduling period given in the application; and
+		(d)  List of applications where standing clearance was not granted, along with reasons for refusal, to be displayed till one month after the scheduling period given in the application; and
 		(e)  A list of applications pending for decision.
 	
 	Savings and Repeal
